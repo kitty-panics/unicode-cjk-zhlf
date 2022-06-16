@@ -19,13 +19,17 @@
 `,`(英文逗号)字符进行分割，例：
 
 ```Text
+U+4E00	一	heng
+U+4E01	丁	hengyi
+U+4E02	丂	hengyi
+U+4E03	七	hengyi
 ```
 
 ## 文件列表
 
 + [All.txt]
     + 整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement。
-+ [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
++ [CJK-Unified-Ideographs.txt] (中日韩统一表意文字) **【字符 `〇 U+3007` 没有编码】**
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
@@ -33,8 +37,8 @@
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
-+ [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-+ [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
++ [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字) **【都没有编码】**
++ [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补) **【都没有编码】**
 
 **注：**
 
