@@ -31,7 +31,7 @@ U+4E05	丅	hengshu
 
 + [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
-    + 字符 `〇` 没有编码
+    + [Basic 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
@@ -40,9 +40,9 @@ U+4E05	丅	hengshu
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-    + 都没有编码
+    + 所有字都没有编码
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
-    + 都没有编码
+    + 所有字都没有编码
 
 **注：**
 
@@ -60,6 +60,8 @@ U+4E05	丅	hengshu
 [CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
+
+[Basic 区没有编码的字]: 无码.CJK-Unified-Ideographs.txt
 
 ## 参考资料
 
