@@ -7,7 +7,7 @@ U+2B745	𫝅	erren
 U+2B746	𫝆	renpie
 U+2B747	𫝇	renzhong
 U+2B748	𫝈	renjun
-U+2B749	𫝉	renkou
+U+2B749	𫝉	renjun
 U+2B74A	𫝊	rencun
 U+2B74B	𫝋	rendou
 U+2B74C	𫝌	shuba
@@ -15,10 +15,10 @@ U+2B74D	𫝍	kuangzheng
 U+2B74E	𫝎	shuijian
 U+2B74F	𫝏	shuiyan
 U+2B750	𫝐	badao
-U+2B751	𫝑	zhili
-U+2B752	𫝒	shushi
+U+2B751	𫝑	xingli
+U+2B752	𫝒	jiushi
 U+2B753	𫝓	shiba
-U+2B754	𫝔	tu
+U+2B754	𫝔	tuyuan
 U+2B755	𫝕	changdian
 U+2B756	𫝖	daoba
 U+2B757	𫝗	changzi
@@ -26,13 +26,13 @@ U+2B758	𫝘	kouyou
 U+2B759	𫝙	xiangshang
 U+2B75A	𫝚	kouyun
 U+2B75B	𫝛	xiangtong
-U+2B75C	𫝜	kou
+U+2B75C	𫝜	kouzhui
 U+2B75D	𫝝	kougan
 U+2B75E	𫝞	kouwu
 U+2B75F	𫝟	tuli
 U+2B760	𫝠	tuqie
 U+2B761	𫝡	suitu
-U+2B762	𫝢	xishi
+U+2B762	𫝢	xibian
 U+2B763	𫝣	xishi
 U+2B764	𫝤	juantian
 U+2B765	𫝥	meiliang
@@ -45,7 +45,7 @@ U+2B76B	𫝫	nvlai
 U+2B76C	𫝬	nvgui
 U+2B76D	𫝭	nvying
 U+2B76E	𫝮	nvlan
-U+2B76F	𫝯	yuzi
+U+2B76F	𫝯	jiuzi
 U+2B770	𫝰	gaigui
 U+2B771	𫝱	gaiding
 U+2B772	𫝲	shijiu
@@ -96,7 +96,7 @@ U+2B79E	𫞞	shuiguan
 U+2B79F	𫞟	bahuo
 U+2B7A0	𫞠	huoling
 U+2B7A1	𫞡	huorong
-U+2B7A2	𫞢	xueniu
+U+2B7A2	𫞢	xiaoniu
 U+2B7A3	𫞣	quanjian
 U+2B7A4	𫞤	quanyuan
 U+2B7A5	𫞥	wangbei
@@ -141,7 +141,7 @@ U+2B7CB	𫟋	jiuba
 U+2B7CC	𫟌	caowai
 U+2B7CD	𫟍	caobi
 U+2B7CE	𫟎	caochuan
-U+2B7CF	𫟏	caodian
+U+2B7CF	𫟏	caotu
 U+2B7D0	𫟐	caofang
 U+2B7D1	𫟑	caoling
 U+2B7D2	𫟒	caomu
@@ -190,7 +190,7 @@ U+2B7FC	𫟼	jinda
 U+2B7FD	𫟽	jinguai
 U+2B7FE	𫟾	jinsheng
 U+2B7FF	𫟿	jincha
-U+2B800	𫠀	jincuo
+U+2B800	𫠀	jinxi
 U+2B801	𫠁	jinhe
 U+2B802	𫠂	menling
 U+2B803	𫠃	erxian
@@ -211,7 +211,7 @@ U+2B811	𫠑	yusou
 U+2B812	𫠒	yuzhang
 U+2B813	𫠓	pieheng
 U+2B814	𫠔	xiniao
-U+2B815	𫠕	guangniao
+U+2B815	𫠕	guangwu
 U+2B816	𫠖	hongniao
 U+2B817	𫠗	luren
 U+2B818	𫠘	xiaoyou

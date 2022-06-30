@@ -2,8 +2,6 @@
 
 整理 Unicode CJK 字符的 [字海两分] 编码。
 
-[字海两分]: http://cheonhyeong.com/Simplified/download.html
-
 ## 协作整理
 
 由于疏忽、参考资料有误等，码表可能会存在一些错误，如果你发现了错误请通过
@@ -12,26 +10,25 @@
 + 如果不会 Git 操作可在 [Issues] 中发起反馈。
 + 如果熟悉 Git 操作可在更正错误后发起 [PR]。
 
-[PR]: https://github.com/kitty-panics/unicode-cjk-zhlf/pulls
 [Issues]: https://github.com/kitty-panics/unicode-cjk-zhlf/issues
+[PR]: https://github.com/kitty-panics/unicode-cjk-zhlf/pulls
 
 ## 数据格式
 
 每个文件一行一字，以 Tab (制表符) 进行分割，如果某字存在多个编码时，以
-`,` (英文逗号)字符进行分割，例：
+`,` (英文逗号) 字符进行分割，例：
 
 ```Text
+U+3007	〇	yi
 U+4E00	一	heng
 U+4E01	丁	hengyi
-U+4E04	丄	shuheng
-U+4E05	丅	hengshu
+U+4E02	丂	hengyi
 ```
 
 ## 文件列表
 
-+ [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
++ [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
-    + [Basic 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
@@ -40,9 +37,7 @@ U+4E05	丅	hengshu
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-    + 所有字都没有编码
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
-    + 所有字都没有编码
 
 **注：**
 
@@ -61,14 +56,15 @@ U+4E05	丅	hengshu
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
 
-[Basic 区没有编码的字]: 无码.CJK-Unified-Ideographs.txt
-
 ## 参考资料
 
 参考资料可在 [参考资料] 目录下找到。其中非文件类的在线资料将转换成 PDF 快照存放。
 
++ 两分字表_2022年6月.zip (来源于 QQ 群: "Unicode漢字交流群")
 + [ZHLF_rime_4.0.7z] (字海两分输入法 v4.0)
 + [LiangFenHandbook.pdf] (两分手册第 1 版)
+
+编码以 "两分字表_2022年6月.zip" 为准，其中缺失编码的字参考 "ZHLF_rime_4.0.7z"。
 
 [参考资料]: 参考资料
 [ZHLF_rime_4.0.7z]: http://cheonhyeong.com/File/ZHLF_rime_4.0.7z
@@ -82,19 +78,12 @@ U+4E05	丅	hengshu
 
 [cn-tables]: https://github.com/kitty-panics/cn-tables
 
-### [CNS11643-Unicode-Cangjie]
-
-[CNS11643]、Unicode、Cangjie 对照表。
-
-[CNS11643-Unicode-Cangjie]: https://github.com/kitty-panics/CNS11643-Unicode-Cangjie
-[CNS11643]: https://data.gov.tw/dataset/5961
-
 ### [unicode-cjk]
 
-整理所有 [Unicode] CJK 字符。
+整理所有 [Unicode CJK] 字符。
 
 [unicode-cjk]: https://github.com/kitty-panics/unicode-cjk
-[Unicode]: https://www.unicode.org/Public/UNIDATA/Blocks.txt
+[Unicode CJK]: https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt
 
 ### [unicode-cjk-98wubi]
 
@@ -103,12 +92,27 @@ U+4E05	丅	hengshu
 [unicode-cjk-98wubi]: https://github.com/kitty-panics/unicode-cjk-98wubi
 [五笔98]: http://98wb.ysepan.com
 
+### [unicode-cjk-cangjie5]
+
+整理 Unicode CJK 字符的 [仓颉5] 编码。
+
+[unicode-cjk-cangjie5]: https://github.com/kitty-panics/unicode-cjk-cangjie5
+[仓颉5]: https://github.com/Jackchows/Cangjie5
+
+### [unicode-cjk-cns11643-cangjie]
+
+[Unicode]、[CNS11643]、Cangjie 对照表。
+
+[unicode-cjk-cns11643-cangjie]: https://github.com/kitty-panics/unicode-cjk-cns11643-cangjie
+[Unicode]: https://www.unicode.org/Public/UCD/latest
+[CNS11643]: https://data.gov.tw/dataset/5961
+
 ### [unicode-cjk-ids]
 
 备份、修补 [chise/ids]。
 
 [unicode-cjk-ids]: https://github.com/kitty-panics/unicode-cjk-ids
-[chise/ids]: http://git.chise.org/git/chise/ids.git
+[chise/ids]: https://gitlab.chise.org/CHISE/ids.git
 
 ### [unicode-cjk-zhlf]
 

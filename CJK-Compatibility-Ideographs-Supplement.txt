@@ -1,542 +1,542 @@
-U+2F800	丽	
-U+2F801	丸	
-U+2F802	乁	
-U+2F803	𠄢	
-U+2F804	你	
-U+2F805	侮	
-U+2F806	侻	
-U+2F807	倂	
-U+2F808	偺	
-U+2F809	備	
-U+2F80A	僧	
-U+2F80B	像	
-U+2F80C	㒞	
-U+2F80D	𠘺	
-U+2F80E	免	
-U+2F80F	兔	
-U+2F810	兤	
-U+2F811	具	
-U+2F812	𠔜	
-U+2F813	㒹	
-U+2F814	內	
-U+2F815	再	
-U+2F816	𠕋	
-U+2F817	冗	
-U+2F818	冤	
-U+2F819	仌	
-U+2F81A	冬	
-U+2F81B	况	
-U+2F81C	𩇟	
-U+2F81D	凵	
-U+2F81E	刃	
-U+2F81F	㓟	
-U+2F820	刻	
-U+2F821	剆	
-U+2F822	割	
-U+2F823	剷	
-U+2F824	㔕	
-U+2F825	勇	
-U+2F826	勉	
-U+2F827	勤	
-U+2F828	勺	
-U+2F829	包	
-U+2F82A	匆	
-U+2F82B	北	
-U+2F82C	卉	
-U+2F82D	卑	
-U+2F82E	博	
-U+2F82F	即	
-U+2F830	卽	
-U+2F831	卿	
-U+2F832	卿	
-U+2F833	卿	
-U+2F834	𠨬	
-U+2F835	灰	
-U+2F836	及	
-U+2F837	叟	
-U+2F838	𠭣	
-U+2F839	叫	
-U+2F83A	叱	
-U+2F83B	吆	
-U+2F83C	咞	
-U+2F83D	吸	
-U+2F83E	呈	
-U+2F83F	周	
-U+2F840	咢	
-U+2F841	哶	
-U+2F842	唐	
-U+2F843	啓	
-U+2F844	啣	
-U+2F845	善	
-U+2F846	善	
-U+2F847	喙	
-U+2F848	喫	
-U+2F849	喳	
-U+2F84A	嗂	
-U+2F84B	圖	
-U+2F84C	嘆	
-U+2F84D	圗	
-U+2F84E	噑	
-U+2F84F	噴	
-U+2F850	切	
-U+2F851	壮	
-U+2F852	城	
-U+2F853	埴	
-U+2F854	堍	
-U+2F855	型	
-U+2F856	堲	
-U+2F857	報	
-U+2F858	墬	
-U+2F859	𡓤	
-U+2F85A	売	
-U+2F85B	壷	
-U+2F85C	夆	
-U+2F85D	多	
-U+2F85E	夢	
-U+2F85F	奢	
-U+2F860	𡚨	
-U+2F861	𡛪	
-U+2F862	姬	
-U+2F863	娛	
-U+2F864	娧	
-U+2F865	姘	
-U+2F866	婦	
-U+2F867	㛮	
-U+2F868	㛼	
-U+2F869	嬈	
-U+2F86A	嬾	
-U+2F86B	嬾	
-U+2F86C	𡧈	
-U+2F86D	寃	
-U+2F86E	寘	
-U+2F86F	寧	
-U+2F870	寳	
-U+2F871	𡬘	
-U+2F872	寿	
-U+2F873	将	
-U+2F874	当	
-U+2F875	尢	
-U+2F876	㞁	
-U+2F877	屠	
-U+2F878	屮	
-U+2F879	峀	
-U+2F87A	岍	
-U+2F87B	𡷤	
-U+2F87C	嵃	
-U+2F87D	𡷦	
-U+2F87E	嵮	
-U+2F87F	嵫	
-U+2F880	嵼	
-U+2F881	巡	
-U+2F882	巢	
-U+2F883	㠯	
-U+2F884	巽	
-U+2F885	帨	
-U+2F886	帽	
-U+2F887	幩	
-U+2F888	㡢	
-U+2F889	𢆃	
-U+2F88A	㡼	
-U+2F88B	庰	
-U+2F88C	庳	
-U+2F88D	庶	
-U+2F88E	廊	
-U+2F88F	𪎒	
-U+2F890	廾	
-U+2F891	𢌱	
-U+2F892	𢌱	
-U+2F893	舁	
-U+2F894	弢	
-U+2F895	弢	
-U+2F896	㣇	
-U+2F897	𣊸	
-U+2F898	𦇚	
-U+2F899	形	
-U+2F89A	彫	
-U+2F89B	㣣	
-U+2F89C	徚	
-U+2F89D	忍	
-U+2F89E	志	
-U+2F89F	忹	
-U+2F8A0	悁	
-U+2F8A1	㤺	
-U+2F8A2	㤜	
-U+2F8A3	悔	
-U+2F8A4	𢛔	
-U+2F8A5	惇	
-U+2F8A6	慈	
-U+2F8A7	慌	
-U+2F8A8	慎	
-U+2F8A9	慌	
-U+2F8AA	慺	
-U+2F8AB	憎	
-U+2F8AC	憲	
-U+2F8AD	憤	
-U+2F8AE	憯	
-U+2F8AF	懞	
-U+2F8B0	懲	
-U+2F8B1	懶	
-U+2F8B2	成	
-U+2F8B3	戛	
-U+2F8B4	扝	
-U+2F8B5	抱	
-U+2F8B6	拔	
-U+2F8B7	捐	
-U+2F8B8	𢬌	
-U+2F8B9	挽	
-U+2F8BA	拼	
-U+2F8BB	捨	
-U+2F8BC	掃	
-U+2F8BD	揤	
-U+2F8BE	𢯱	
-U+2F8BF	搢	
-U+2F8C0	揅	
-U+2F8C1	掩	
-U+2F8C2	㨮	
-U+2F8C3	摩	
-U+2F8C4	摾	
-U+2F8C5	撝	
-U+2F8C6	摷	
-U+2F8C7	㩬	
-U+2F8C8	敏	
-U+2F8C9	敬	
-U+2F8CA	𣀊	
-U+2F8CB	旣	
-U+2F8CC	書	
-U+2F8CD	晉	
-U+2F8CE	㬙	
-U+2F8CF	暑	
-U+2F8D0	㬈	
-U+2F8D1	㫤	
-U+2F8D2	冒	
-U+2F8D3	冕	
-U+2F8D4	最	
-U+2F8D5	暜	
-U+2F8D6	肭	
-U+2F8D7	䏙	
-U+2F8D8	朗	
-U+2F8D9	望	
-U+2F8DA	朡	
-U+2F8DB	杞	
-U+2F8DC	杓	
-U+2F8DD	𣏃	
-U+2F8DE	㭉	
-U+2F8DF	柺	
-U+2F8E0	枅	
-U+2F8E1	桒	
-U+2F8E2	梅	
-U+2F8E3	𣑭	
-U+2F8E4	梎	
-U+2F8E5	栟	
-U+2F8E6	椔	
-U+2F8E7	㮝	
-U+2F8E8	楂	
-U+2F8E9	榣	
-U+2F8EA	槪	
-U+2F8EB	檨	
-U+2F8EC	𣚣	
-U+2F8ED	櫛	
-U+2F8EE	㰘	
-U+2F8EF	次	
-U+2F8F0	𣢧	
-U+2F8F1	歔	
-U+2F8F2	㱎	
-U+2F8F3	歲	
-U+2F8F4	殟	
-U+2F8F5	殺	
-U+2F8F6	殻	
-U+2F8F7	𣪍	
-U+2F8F8	𡴋	
-U+2F8F9	𣫺	
-U+2F8FA	汎	
-U+2F8FB	𣲼	
-U+2F8FC	沿	
-U+2F8FD	泍	
-U+2F8FE	汧	
-U+2F8FF	洖	
-U+2F900	派	
-U+2F901	海	
-U+2F902	流	
-U+2F903	浩	
-U+2F904	浸	
-U+2F905	涅	
-U+2F906	𣴞	
-U+2F907	洴	
-U+2F908	港	
-U+2F909	湮	
-U+2F90A	㴳	
-U+2F90B	滋	
-U+2F90C	滇	
-U+2F90D	𣻑	
-U+2F90E	淹	
-U+2F90F	潮	
-U+2F910	𣽞	
-U+2F911	𣾎	
-U+2F912	濆	
-U+2F913	瀹	
-U+2F914	瀞	
-U+2F915	瀛	
-U+2F916	㶖	
-U+2F917	灊	
-U+2F918	災	
-U+2F919	灷	
-U+2F91A	炭	
-U+2F91B	𠔥	
-U+2F91C	煅	
-U+2F91D	𤉣	
-U+2F91E	熜	
-U+2F91F	𤎫	
-U+2F920	爨	
-U+2F921	爵	
-U+2F922	牐	
-U+2F923	𤘈	
-U+2F924	犀	
-U+2F925	犕	
-U+2F926	𤜵	
-U+2F927	𤠔	
-U+2F928	獺	
-U+2F929	王	
-U+2F92A	㺬	
-U+2F92B	玥	
-U+2F92C	㺸	
-U+2F92D	㺸	
-U+2F92E	瑇	
-U+2F92F	瑜	
-U+2F930	瑱	
-U+2F931	璅	
-U+2F932	瓊	
-U+2F933	㼛	
-U+2F934	甤	
-U+2F935	𤰶	
-U+2F936	甾	
-U+2F937	𤲒	
-U+2F938	異	
-U+2F939	𢆟	
-U+2F93A	瘐	
-U+2F93B	𤾡	
-U+2F93C	𤾸	
-U+2F93D	𥁄	
-U+2F93E	㿼	
-U+2F93F	䀈	
-U+2F940	直	
-U+2F941	𥃳	
-U+2F942	𥃲	
-U+2F943	𥄙	
-U+2F944	𥄳	
-U+2F945	眞	
-U+2F946	真	
-U+2F947	真	
-U+2F948	睊	
-U+2F949	䀹	
-U+2F94A	瞋	
-U+2F94B	䁆	
-U+2F94C	䂖	
-U+2F94D	𥐝	
-U+2F94E	硎	
-U+2F94F	碌	
-U+2F950	磌	
-U+2F951	䃣	
-U+2F952	𥘦	
-U+2F953	祖	
-U+2F954	𥚚	
-U+2F955	𥛅	
-U+2F956	福	
-U+2F957	秫	
-U+2F958	䄯	
-U+2F959	穀	
-U+2F95A	穊	
-U+2F95B	穏	
-U+2F95C	𥥼	
-U+2F95D	𥪧	
-U+2F95E	𥪧	
-U+2F95F	竮	
-U+2F960	䈂	
-U+2F961	𥮫	
-U+2F962	篆	
-U+2F963	築	
-U+2F964	䈧	
-U+2F965	𥲀	
-U+2F966	糒	
-U+2F967	䊠	
-U+2F968	糨	
-U+2F969	糣	
-U+2F96A	紀	
-U+2F96B	𥾆	
-U+2F96C	絣	
-U+2F96D	䌁	
-U+2F96E	緇	
-U+2F96F	縂	
-U+2F970	繅	
-U+2F971	䌴	
-U+2F972	𦈨	
-U+2F973	𦉇	
-U+2F974	䍙	
-U+2F975	𦋙	
-U+2F976	罺	
-U+2F977	𦌾	
-U+2F978	羕	
-U+2F979	翺	
-U+2F97A	者	
-U+2F97B	𦓚	
-U+2F97C	𦔣	
-U+2F97D	聠	
-U+2F97E	𦖨	
-U+2F97F	聰	
-U+2F980	𣍟	
-U+2F981	䏕	
-U+2F982	育	
-U+2F983	脃	
-U+2F984	䐋	
-U+2F985	脾	
-U+2F986	媵	
-U+2F987	𦞧	
-U+2F988	𦞵	
-U+2F989	𣎓	
-U+2F98A	𣎜	
-U+2F98B	舁	
-U+2F98C	舄	
-U+2F98D	辞	
-U+2F98E	䑫	
-U+2F98F	芑	
-U+2F990	芋	
-U+2F991	芝	
-U+2F992	劳	
-U+2F993	花	
-U+2F994	芳	
-U+2F995	芽	
-U+2F996	苦	
-U+2F997	𦬼	
-U+2F998	若	
-U+2F999	茝	
-U+2F99A	荣	
-U+2F99B	莭	
-U+2F99C	茣	
-U+2F99D	莽	
-U+2F99E	菧	
-U+2F99F	著	
-U+2F9A0	荓	
-U+2F9A1	菊	
-U+2F9A2	菌	
-U+2F9A3	菜	
-U+2F9A4	𦰶	
-U+2F9A5	𦵫	
-U+2F9A6	𦳕	
-U+2F9A7	䔫	
-U+2F9A8	蓱	
-U+2F9A9	蓳	
-U+2F9AA	蔖	
-U+2F9AB	𧏊	
-U+2F9AC	蕤	
-U+2F9AD	𦼬	
-U+2F9AE	䕝	
-U+2F9AF	䕡	
-U+2F9B0	𦾱	
-U+2F9B1	𧃒	
-U+2F9B2	䕫	
-U+2F9B3	虐	
-U+2F9B4	虜	
-U+2F9B5	虧	
-U+2F9B6	虩	
-U+2F9B7	蚩	
-U+2F9B8	蚈	
-U+2F9B9	蜎	
-U+2F9BA	蛢	
-U+2F9BB	蝹	
-U+2F9BC	蜨	
-U+2F9BD	蝫	
-U+2F9BE	螆	
-U+2F9BF	䗗	
-U+2F9C0	蟡	
-U+2F9C1	蠁	
-U+2F9C2	䗹	
-U+2F9C3	衠	
-U+2F9C4	衣	
-U+2F9C5	𧙧	
-U+2F9C6	裗	
-U+2F9C7	裞	
-U+2F9C8	䘵	
-U+2F9C9	裺	
-U+2F9CA	㒻	
-U+2F9CB	𧢮	
-U+2F9CC	𧥦	
-U+2F9CD	䚾	
-U+2F9CE	䛇	
-U+2F9CF	誠	
-U+2F9D0	諭	
-U+2F9D1	變	
-U+2F9D2	豕	
-U+2F9D3	𧲨	
-U+2F9D4	貫	
-U+2F9D5	賁	
-U+2F9D6	贛	
-U+2F9D7	起	
-U+2F9D8	𧼯	
-U+2F9D9	𠠄	
-U+2F9DA	跋	
-U+2F9DB	趼	
-U+2F9DC	跰	
-U+2F9DD	𠣞	
-U+2F9DE	軔	
-U+2F9DF	輸	
-U+2F9E0	𨗒	
-U+2F9E1	𨗭	
-U+2F9E2	邔	
-U+2F9E3	郱	
-U+2F9E4	鄑	
-U+2F9E5	𨜮	
-U+2F9E6	鄛	
-U+2F9E7	鈸	
-U+2F9E8	鋗	
-U+2F9E9	鋘	
-U+2F9EA	鉼	
-U+2F9EB	鏹	
-U+2F9EC	鐕	
-U+2F9ED	𨯺	
-U+2F9EE	開	
-U+2F9EF	䦕	
-U+2F9F0	閷	
-U+2F9F1	𨵷	
-U+2F9F2	䧦	
-U+2F9F3	雃	
-U+2F9F4	嶲	
-U+2F9F5	霣	
-U+2F9F6	𩅅	
-U+2F9F7	𩈚	
-U+2F9F8	䩮	
-U+2F9F9	䩶	
-U+2F9FA	韠	
-U+2F9FB	𩐊	
-U+2F9FC	䪲	
-U+2F9FD	𩒖	
-U+2F9FE	頋	
-U+2F9FF	頋	
-U+2FA00	頩	
-U+2FA01	𩖶	
-U+2FA02	飢	
-U+2FA03	䬳	
-U+2FA04	餩	
-U+2FA05	馧	
-U+2FA06	駂	
-U+2FA07	駾	
-U+2FA08	䯎	
-U+2FA09	𩬰	
-U+2FA0A	鬒	
-U+2FA0B	鱀	
-U+2FA0C	鳽	
-U+2FA0D	䳎	
-U+2FA0E	䳭	
-U+2FA0F	鵧	
-U+2FA10	𪃎	
-U+2FA11	䳸	
-U+2FA12	𪄅	
-U+2FA13	𪈎	
-U+2FA14	𪊑	
-U+2FA15	麻	
-U+2FA16	䵖	
-U+2FA17	黹	
-U+2FA18	黾	
-U+2FA19	鼅	
-U+2FA1A	鼏	
-U+2FA1B	鼖	
-U+2FA1C	鼻	
-U+2FA1D	𪘀	
+U+2F800	丽	hengheng
+U+2F801	丸	jiudian
+U+2F802	乁	yi
+U+2F803	𠄢	erhui
+U+2F804	你	rener
+U+2F805	侮	renmei
+U+2F806	侻	rendui
+U+2F807	倂	renbing
+U+2F808	偺	renri
+U+2F809	備	renyong
+U+2F80A	僧	renzeng
+U+2F80B	像	renxiang
+U+2F80C	㒞	renjuan
+U+2F80D	𠘺	eryun
+U+2F80E	免	daoer
+U+2F80F	兔	daodian
+U+2F810	兤	guangguang
+U+2F811	具	muba
+U+2F812	𠔜	jiuba
+U+2F813	㒹	zhenzhen
+U+2F814	內	kuangren
+U+2F815	再	wangkuang
+U+2F816	𠕋	kuanger
+U+2F817	冗	gaier
+U+2F818	冤	gaitu
+U+2F819	仌	renren
+U+2F81A	冬	wendian
+U+2F81B	况	erxiong
+U+2F81C	𩇟	shuiliang
+U+2F81D	凵	yishu
+U+2F81E	刃	daodian
+U+2F81F	㓟	pidao
+U+2F820	刻	haidao
+U+2F821	剆	liangdao
+U+2F822	割	haidao
+U+2F823	剷	chandao
+U+2F824	㔕	qili
+U+2F825	勇	yinan
+U+2F826	勉	mianli
+U+2F827	勤	caoli
+U+2F828	勺	baoheng
+U+2F829	包	baoji
+U+2F82A	匆	wudian
+U+2F82B	北	panbi
+U+2F82C	卉	shicao
+U+2F82D	卑	baishi
+U+2F82E	博	shifu
+U+2F82F	即	gener
+U+2F830	卽	baier
+U+2F831	卿	maogen
+U+2F832	卿	maoliang
+U+2F833	卿	maobi
+U+2F834	𠨬	changbi
+U+2F835	灰	changhuo
+U+2F836	及	yiren
+U+2F837	叟	shenyou
+U+2F838	𠭣	jiyou
+U+2F839	叫	koujiu
+U+2F83A	叱	koubi
+U+2F83B	吆	koume
+U+2F83C	咞	koukai
+U+2F83D	吸	kouji
+U+2F83E	呈	kouwang
+U+2F83F	周	kuangkou
+U+2F840	咢	kouyu
+U+2F841	哶	kouchuan
+U+2F842	唐	guangkou
+U+2F843	啓	hukou
+U+2F844	啣	kouer
+U+2F845	善	yangkou
+U+2F846	善	yangkou
+U+2F847	喙	koushi
+U+2F848	喫	kouqi
+U+2F849	喳	koucha
+U+2F84A	嗂	kouyao
+U+2F84B	圖	koubi
+U+2F84C	嘆	koufu
+U+2F84D	圗	kouhui
+U+2F84E	噑	kougao
+U+2F84F	噴	kouben
+U+2F850	切	tudao
+U+2F851	壮	pantu
+U+2F852	城	tucheng
+U+2F853	埴	tuzhi
+U+2F854	堍	tutu
+U+2F855	型	xingtu
+U+2F856	堲	jitu
+U+2F857	報	xingyou
+U+2F858	墬	ertu
+U+2F859	𡓤	tubei
+U+2F85A	売	shirong
+U+2F85B	壷	shiya
+U+2F85C	夆	wenfeng
+U+2F85D	多	xixi
+U+2F85E	夢	caoxi
+U+2F85F	奢	dazhe
+U+2F860	𡚨	nvbi
+U+2F861	𡛪	nvshan
+U+2F862	姬	nvyi
+U+2F863	娛	nvwu
+U+2F864	娧	nvdui
+U+2F865	姘	nvbing
+U+2F866	婦	nvzhou
+U+2F867	㛮	nvyou
+U+2F868	㛼	nvcha
+U+2F869	嬈	nvyao
+U+2F86A	嬾	nvlai
+U+2F86B	嬾	nvye
+U+2F86C	𡧈	gaikui
+U+2F86D	寃	gaitu
+U+2F86E	寘	gaizhen
+U+2F86F	寧	gaiding
+U+2F870	寳	gaibei
+U+2F871	𡬘	liukuan
+U+2F872	寿	fengcun
+U+2F873	将	pancun
+U+2F874	当	xiaoxue
+U+2F875	尢	henger
+U+2F876	㞁	yougen
+U+2F877	屠	shizhe
+U+2F878	屮	kuangpie
+U+2F879	峀	shanyou
+U+2F87A	岍	shankai
+U+2F87B	𡷤	shanwu
+U+2F87C	嵃	shanyan
+U+2F87D	𡷦	jishan
+U+2F87E	嵮	shanzhen
+U+2F87F	嵫	shanzi
+U+2F880	嵼	shanchan
+U+2F881	巡	zouchuan
+U+2F882	巢	chuanmu
+U+2F883	㠯	shukou
+U+2F884	巽	sigong
+U+2F885	帨	jindui
+U+2F886	帽	jinmao
+U+2F887	幩	jinben
+U+2F888	㡢	jinfang
+U+2F889	𢆃	jinwen
+U+2F88A	㡼	guangye
+U+2F88B	庰	guangbing
+U+2F88C	庳	guangbei
+U+2F88D	庶	guanghuo
+U+2F88E	廊	guanglang
+U+2F88F	𪎒	mafan
+U+2F890	廾	shishi
+U+2F891	𢌱	yucao
+U+2F892	𢌱	yucao
+U+2F893	舁	jiucao
+U+2F894	弢	gongyou
+U+2F895	弢	gongcha
+U+2F896	㣇	jinjin
+U+2F897	𣊸	wujin
+U+2F898	𦇚	xuesu
+U+2F899	形	kaishan
+U+2F89A	彫	zhoushan
+U+2F89B	㣣	renjia
+U+2F89C	徚	rendong
+U+2F89D	忍	renxin
+U+2F89E	志	shixin
+U+2F89F	忹	xinwang
+U+2F8A0	悁	xinyue
+U+2F8A1	㤺	xinhuang
+U+2F8A2	㤜	xinxu
+U+2F8A3	悔	xinmei
+U+2F8A4	𢛔	xinjian
+U+2F8A5	惇	xinxiang
+U+2F8A6	慈	zixin
+U+2F8A7	慌	xinhuang
+U+2F8A8	慎	xinzhen
+U+2F8A9	慌	xinhuang
+U+2F8AA	慺	xinlou
+U+2F8AB	憎	xinzeng
+U+2F8AC	憲	gaixin
+U+2F8AD	憤	xinben
+U+2F8AE	憯	xinri
+U+2F8AF	懞	xinshi
+U+2F8B0	懲	zhengxin
+U+2F8B1	懶	xinye
+U+2F8B2	成	wuding
+U+2F8B3	戛	baige
+U+2F8B4	扝	shouyu
+U+2F8B5	抱	shoubao
+U+2F8B6	拔	shouba
+U+2F8B7	捐	shouyue
+U+2F8B8	𢬌	shouba
+U+2F8B9	挽	shoumian
+U+2F8BA	拼	shoubing
+U+2F8BB	捨	shoushe
+U+2F8BC	掃	shouzhou
+U+2F8BD	揤	shouji
+U+2F8BE	𢯱	shouyou
+U+2F8BF	搢	shoujin
+U+2F8C0	揅	yanshou
+U+2F8C1	掩	shouyan
+U+2F8C2	㨮	shoudou
+U+2F8C3	摩	mashou
+U+2F8C4	摾	shouqiang
+U+2F8C5	撝	shouwei
+U+2F8C6	摷	shouchao
+U+2F8C7	㩬	shouxi
+U+2F8C8	敏	meiwen
+U+2F8C9	敬	gouwen
+U+2F8CA	𣀊	lianwen
+U+2F8CB	旣	baiwu
+U+2F8CC	書	yuri
+U+2F8CD	晉	yari
+U+2F8CE	㬙	riwei
+U+2F8CF	暑	rizhe
+U+2F8D0	㬈	riwen
+U+2F8D1	㫤	riyong
+U+2F8D2	冒	rimu
+U+2F8D3	冕	rimian
+U+2F8D4	最	riqu
+U+2F8D5	暜	liri
+U+2F8D6	肭	yuenei
+U+2F8D7	䏙	yueyin
+U+2F8D8	朗	liangyue
+U+2F8D9	望	wangwang
+U+2F8DA	朡	yuewen
+U+2F8DB	杞	muyi
+U+2F8DC	杓	mushao
+U+2F8DD	𣏃	muxue
+U+2F8DE	㭉	caomu
+U+2F8DF	柺	muling
+U+2F8E0	枅	mukai
+U+2F8E1	桒	huimu
+U+2F8E2	梅	mumei
+U+2F8E3	𣑭	muce
+U+2F8E4	梎	mugen
+U+2F8E5	栟	mubing
+U+2F8E6	椔	muzai
+U+2F8E7	㮝	muer
+U+2F8E8	楂	mucha
+U+2F8E9	榣	muyao
+U+2F8EA	槪	muji
+U+2F8EB	檨	muxian
+U+2F8EC	𣚣	muyi
+U+2F8ED	櫛	mujie
+U+2F8EE	㰘	muyi
+U+2F8EF	次	shuiqian
+U+2F8F0	𣢧	yuqian
+U+2F8F1	歔	xuqian
+U+2F8F2	㱎	siqian
+U+2F8F3	歲	zhishi
+U+2F8F4	殟	daiwen
+U+2F8F5	殺	shashu
+U+2F8F6	殻	keshu
+U+2F8F7	𣪍	shishu
+U+2F8F8	𡴋	shanmu
+U+2F8F9	𣫺	meiyu
+U+2F8FA	汎	shuifan
+U+2F8FB	𣲼	shuijiu
+U+2F8FC	沿	shuikou
+U+2F8FD	泍	shuiben
+U+2F8FE	汧	shuikai
+U+2F8FF	洖	shuiwu
+U+2F900	派	shuipai
+U+2F901	海	shuimei
+U+2F902	流	shuiliu
+U+2F903	浩	shuigao
+U+2F904	浸	shuiqin
+U+2F905	涅	shuigong
+U+2F906	𣴞	shuitu
+U+2F907	洴	shuibing
+U+2F908	港	shuixiang
+U+2F909	湮	shuitu
+U+2F90A	㴳	shuishan
+U+2F90B	滋	shuizi
+U+2F90C	滇	shuizhen
+U+2F90D	𣻑	shuisha
+U+2F90E	淹	shuiyan
+U+2F90F	潮	shuichao
+U+2F910	𣽞	shuijiu
+U+2F911	𣾎	shuihuo
+U+2F912	濆	shuiben
+U+2F913	瀹	shuiyue
+U+2F914	瀞	shuijing
+U+2F915	瀛	shuiying
+U+2F916	㶖	shuihei
+U+2F917	灊	shuige
+U+2F918	災	chuanhuo
+U+2F919	灷	huocao
+U+2F91A	炭	shanhui
+U+2F91B	𠔥	bahuo
+U+2F91C	煅	huoshu
+U+2F91D	𤉣	huozai
+U+2F91E	熜	huoxin
+U+2F91F	𤎫	yanhuo
+U+2F920	爨	jiuhuo
+U+2F921	爵	zhaocun
+U+2F922	牐	piancha
+U+2F923	𤘈	yajiu
+U+2F924	犀	niaoniu
+U+2F925	犕	niuyong
+U+2F926	𤜵	quankai
+U+2F927	𤠔	quanyuan
+U+2F928	獺	quanye
+U+2F929	王	sanshu
+U+2F92A	㺬	wangfan
+U+2F92B	玥	wangyue
+U+2F92C	㺸	renwang
+U+2F92D	㺸	renyu
+U+2F92E	瑇	wangdu
+U+2F92F	瑜	wangyu
+U+2F930	瑱	wangzhen
+U+2F931	璅	wangchao
+U+2F932	瓊	wangwen
+U+2F933	㼛	kaiwa
+U+2F934	甤	shisheng
+U+2F935	𤰶	shenshen
+U+2F936	甾	chuantian
+U+2F937	𤲒	tianbing
+U+2F938	異	tiangong
+U+2F939	𢆟	youbing
+U+2F93A	瘐	bingyu
+U+2F93B	𤾡	baiwei
+U+2F93C	𤾸	baiwei
+U+2F93D	𥁄	kuimin
+U+2F93E	㿼	kaimin
+U+2F93F	䀈	jimin
+U+2F940	直	shiyi
+U+2F941	𥃳	mukui
+U+2F942	𥃲	mucao
+U+2F943	𥄙	mubu
+U+2F944	𥄳	sishui
+U+2F945	眞	biju
+U+2F946	真	shiba
+U+2F947	真	shiba
+U+2F948	睊	muyuan
+U+2F949	䀹	mujia
+U+2F94A	瞋	muzhen
+U+2F94B	䁆	muyan
+U+2F94C	䂖	shidian
+U+2F94D	𥐝	shishao
+U+2F94E	硎	shixing
+U+2F94F	碌	shilu
+U+2F950	磌	shizhen
+U+2F951	䃣	shiwei
+U+2F952	𥘦	shiwen
+U+2F953	祖	buqie
+U+2F954	𥚚	shier
+U+2F955	𥛅	shiliu
+U+2F956	福	shifu
+U+2F957	秫	heshu
+U+2F958	䄯	hekai
+U+2F959	穀	kehe
+U+2F95A	穊	heji
+U+2F95B	穏	heji
+U+2F95C	𥥼	xuejing
+U+2F95D	𥪧	lizhen
+U+2F95E	𥪧	lizhen
+U+2F95F	竮	liping
+U+2F960	䈂	zhubing
+U+2F961	𥮫	zhumi
+U+2F962	篆	zhushi
+U+2F963	築	zhumu
+U+2F964	䈧	zhuwei
+U+2F965	𥲀	zhuchao
+U+2F966	糒	miyong
+U+2F967	䊠	jimi
+U+2F968	糨	miqiang
+U+2F969	糣	miri
+U+2F96A	紀	siyi
+U+2F96B	𥾆	sijiu
+U+2F96C	絣	sibing
+U+2F96D	䌁	siyao
+U+2F96E	緇	sizai
+U+2F96F	縂	sizong
+U+2F970	繅	sichao
+U+2F971	䌴	siyang
+U+2F972	𦈨	foukai
+U+2F973	𦉇	fouping
+U+2F974	䍙	simei
+U+2F975	𦋙	wangyan
+U+2F976	罺	sichao
+U+2F977	𦌾	sihuan
+U+2F978	羕	yangyong
+U+2F979	翺	ziyu
+U+2F97A	者	zhedian
+U+2F97B	𦓚	zhiduan
+U+2F97C	𦔣	leiwu
+U+2F97D	聠	erbing
+U+2F97E	𦖨	cier
+U+2F97F	聰	erxin
+U+2F980	𣍟	kuangyue
+U+2F981	䏕	yueren
+U+2F982	育	yunyue
+U+2F983	脃	yuese
+U+2F984	䐋	yuexin
+U+2F985	脾	yuebei
+U+2F986	媵	yuenv
+U+2F987	𦞧	yueliu
+U+2F988	𦞵	yuegao
+U+2F989	𣎓	yuexuan
+U+2F98A	𣎜	yuemian
+U+2F98B	舁	jiucao
+U+2F98C	舄	jiuhuo
+U+2F98D	辞	shexin
+U+2F98E	䑫	zhoubing
+U+2F98F	芑	caoyi
+U+2F990	芋	caoyu
+U+2F991	芝	caozhi
+U+2F992	劳	caoli
+U+2F993	花	caohua
+U+2F994	芳	caofang
+U+2F995	芽	caoya
+U+2F996	苦	caogu
+U+2F997	𦬼	caoer
+U+2F998	若	caoyou
+U+2F999	茝	caoyi
+U+2F99A	荣	yingmu
+U+2F99B	莭	caoji
+U+2F99C	茣	caowu
+U+2F99D	莽	caocao
+U+2F99E	菧	caodi
+U+2F99F	著	caozhe
+U+2F9A0	荓	caobing
+U+2F9A1	菊	caoju
+U+2F9A2	菌	caoqun
+U+2F9A3	菜	caocai
+U+2F9A4	𦰶	caoju
+U+2F9A5	𦵫	caosi
+U+2F9A6	𦳕	caocao
+U+2F9A7	䔫	caoci
+U+2F9A8	蓱	caobing
+U+2F9A9	蓳	caojin
+U+2F9AA	蔖	caodan
+U+2F9AB	𧏊	caochong
+U+2F9AC	蕤	caosheng
+U+2F9AD	𦼬	caomin
+U+2F9AE	䕝	caoran
+U+2F9AF	䕡	caolv
+U+2F9B0	𦾱	caochao
+U+2F9B1	𧃒	caolv
+U+2F9B2	䕫	caowen
+U+2F9B3	虐	huxue
+U+2F9B4	虜	hunan
+U+2F9B5	虧	huyu
+U+2F9B6	虩	shaohu
+U+2F9B7	蚩	caochong
+U+2F9B8	蚈	chongkai
+U+2F9B9	蜎	chongyuan
+U+2F9BA	蛢	chongbing
+U+2F9BB	蝹	chongwen
+U+2F9BC	蜨	chongjie
+U+2F9BD	蝫	chongzhe
+U+2F9BE	螆	chongzi
+U+2F9BF	䗗	chongkai
+U+2F9C0	蟡	chongwei
+U+2F9C1	蠁	xiangchong
+U+2F9C2	䗹	chongci
+U+2F9C3	衠	xingzhen
+U+2F9C4	衣	erdian
+U+2F9C5	𧙧	yikai
+U+2F9C6	裗	yiliu
+U+2F9C7	裞	yidui
+U+2F9C8	䘵	yilu
+U+2F9C9	裺	yiyan
+U+2F9CA	㒻	rijian
+U+2F9CB	𧢮	lijian
+U+2F9CC	𧥦	yankui
+U+2F9CD	䚾	yanwang
+U+2F9CE	䛇	yankou
+U+2F9CF	誠	yancheng
+U+2F9D0	諭	yanyu
+U+2F9D1	變	luanwen
+U+2F9D2	豕	yidian
+U+2F9D3	𧲨	zhikai
+U+2F9D4	貫	mubei
+U+2F9D5	賁	huibei
+U+2F9D6	贛	zhangbei
+U+2F9D7	起	zouji
+U+2F9D8	𧼯	zouyu
+U+2F9D9	𠠄	zouxiao
+U+2F9DA	跋	zuba
+U+2F9DB	趼	zukai
+U+2F9DC	跰	zubing
+U+2F9DD	𠣞	baoche
+U+2F9DE	軔	cheren
+U+2F9DF	輸	cheyu
+U+2F9E0	𨗒	zouren
+U+2F9E1	𨗭	zoutu
+U+2F9E2	邔	yier
+U+2F9E3	郱	binger
+U+2F9E4	鄑	jiner
+U+2F9E5	𨜮	pieer
+U+2F9E6	鄛	chaoer
+U+2F9E7	鈸	jinba
+U+2F9E8	鋗	jinyuan
+U+2F9E9	鋘	jinwu
+U+2F9EA	鉼	jinbing
+U+2F9EB	鏹	jinqiang
+U+2F9EC	鐕	jinri
+U+2F9ED	𨯺	jinhuo
+U+2F9EE	開	menkai
+U+2F9EF	䦕	menbing
+U+2F9F0	閷	shashan
+U+2F9F1	𨵷	menwen
+U+2F9F2	䧦	erwei
+U+2F9F3	雃	kaizhui
+U+2F9F4	嶲	shanjuan
+U+2F9F5	霣	yuyuan
+U+2F9F6	𩅅	yubing
+U+2F9F7	𩈚	mianbing
+U+2F9F8	䩮	geshui
+U+2F9F9	䩶	gechong
+U+2F9FA	韠	weibi
+U+2F9FB	𩐊	fujiu
+U+2F9FC	䪲	wuye
+U+2F9FD	𩒖	kaiye
+U+2F9FE	頋	eye
+U+2F9FF	頋	eye
+U+2FA00	頩	bingye
+U+2FA01	𩖶	fengshu
+U+2FA02	飢	shier
+U+2FA03	䬳	shiban
+U+2FA04	餩	shihai
+U+2FA05	馧	xiangwen
+U+2FA06	駂	bima
+U+2FA07	駾	madui
+U+2FA08	䯎	gugan
+U+2FA09	𩬰	biaogong
+U+2FA0A	鬒	biaozhen
+U+2FA0B	鱀	jiyu
+U+2FA0C	鳽	kainiao
+U+2FA0D	䳎	jiuniao
+U+2FA0E	䳭	jiniao
+U+2FA0F	鵧	bingniao
+U+2FA10	𪃎	yuniao
+U+2FA11	䳸	maniao
+U+2FA12	𪄅	shaniao
+U+2FA13	𪈎	lainiao
+U+2FA14	𪊑	lukai
+U+2FA15	麻	guanglin
+U+2FA16	䵖	yishu
+U+2FA17	黹	yexiao
+U+2FA18	黾	koudian
+U+2FA19	鼅	zhimian
+U+2FA1A	鼏	kuangding
+U+2FA1B	鼖	huigu
+U+2FA1C	鼻	zibi
+U+2FA1D	𪘀	chibing
